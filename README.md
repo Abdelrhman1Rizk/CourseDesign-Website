@@ -1,1 +1,2 @@
-# CourseDesign-Website
+# Web Courses-Website
+HTML CSS JS
